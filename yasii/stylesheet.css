@@ -1,5 +1,5 @@
 body {
-	/*background-color: #f170a6;	*/
+	/*background-color: #030001;	*/
 	background-color: #000;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
@@ -13,7 +13,7 @@ body {
 }
 .peach {
 	/* background-image: url("bd1.jpg"); */
-	background-color: #f170a6;
+	background-color: #010001;
 	
 }
 .peach-after {
@@ -26,60 +26,60 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #060002;
 	}
 	25%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 	50%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 	75%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color:#030001;
 	}
 	25%{
-		background-color: #f170a6;
+		background-color:#030001;
 	}
 	50%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 	75%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffff;
 	}
 	50%{
 		background-color: #ddd5d8;
 	}
 	75%{
-		background-color: #FFE4B5;
+		background-color: #ffff;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 	25%{
 		background-color: #FFE4B5;
@@ -91,7 +91,7 @@ body {
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 }
 
@@ -103,13 +103,13 @@ body {
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #030001;
 	}
 }
 
